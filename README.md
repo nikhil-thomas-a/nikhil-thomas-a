@@ -21,7 +21,7 @@ Delivery PM & Fractional Head of Data. I build practical tools for delivery, ops
 
 ### Stack
 
-`Python` · `pandas` · `scikit-learn` · `React` · `Next.js` · `TypeScript` · `Google Apps Script` · `Playwright`
+`Python` · `pandas` · `scikit-learn` · `React` · `Next.js` · `TypeScript` · `Google Apps Script` 
 
 ---
 
