@@ -8,7 +8,7 @@ Delivery PM & Fractional Head of Data. I build practical tools for delivery, ops
 
 | | Project | What it does |
 |---|---|---|
-| 👟 | [SoleSearch](https://solesearch-one.vercel.app/) | Data-driven shoe discovery — 9-signal biomechanics fit engine across 67 shoes in 14 categories |
+| 👟 | [SoleHunt](https://solesearch-one.vercel.app/) | Data-driven shoe discovery — 9-signal biomechanics fit engine across 67 shoes in 14 categories |
 | 🎯 | [Apply Radar](https://github.com/nikhil-thomas-a/apply-radar) | Chrome extension to track job applications across Naukri, LinkedIn, and Internshala |
 | ✦ | [Tensaku 添削](https://nikhil-thomas-a.github.io/tensaku-web/) | 13 free AI writing tools — grammar check, enhance, summarise, translate, and more |
 | ⚙️ | [Startup Ops Toolkit](https://nikhil-thomas-a.github.io/startup-ops-toolkit/) | Google Sheets + Apps Script automations for early-stage startup ops |
